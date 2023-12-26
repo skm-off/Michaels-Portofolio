@@ -1,43 +1,43 @@
 
 /* Add your profile image here */
 .Photo{
-    background-image: url('https://images.pexels.com/photos/3799821/pexels-photo-3799821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-image: url('https://media.licdn.com/dms/image/D4E03AQE1254H4RzyTw/profile-displayphoto-shrink_800_800/0/1703608524813?e=1709164800&v=beta&t=kwKu_NPgW4ChycLIVKTYyriVjkj8quBfBj3RShAKsUc');
 }
 /* Projects Photo */
 .project1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+one');
+    background-image: url('https://asset.brandfetch.io/id734_fQqS/idMB4rQXjx.png');
     cursor: none;    
 }
 .project2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+two');
+    background-image: url('https://pools.no/wp-content/uploads/BWT-PEARL-CONNECT_40a5e27d395b3215202b3bdb95f210f0.jpg');
     cursor: none;
 }
 .project3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+three');
+    background-image: url('https://site.softpauer.com/wp-content/uploads/2023/08/Website-shot-1-2048x1467.png');
     cursor: none;
 }
 .project4{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
-    cursor: none;
+    background-image: url('https://asset.brandfetch.io/id734_fQqS/idMB4rQXjx.png');
+    cursor: none;    
 }
 .project5{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
+    background-image: url('https://pools.no/wp-content/uploads/BWT-PEARL-CONNECT_40a5e27d395b3215202b3bdb95f210f0.jpg');
     cursor: none;
 }
 .project6{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
+    background-image: url('https://pbs.twimg.com/profile_images/1242400969029300224/vLOhr1IR_400x400.png');
     cursor: none;
 }
 /* Miscelaneous Activities photo */
 .misc1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+one');
+    background-image: url('https://foundations.projectpythia.org/_images/GitHub-logo.png');
     cursor: none;
 }
 .misc2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+two');
+    background-image: url('https://bairesdev.mo.cloudinary.net/blog/2022/08/ue-logo-1400x788-1400x788-8f185e1e3635-1.jpg?tx=w_3840,q_auto');
     cursor: none;
 }
 .misc3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+three');
+    background-image: url('https://bairesdev.mo.cloudinary.net/blog/2022/08/ue-logo-1400x788-1400x788-8f185e1e3635-1.jpg?tx=w_3840,q_auto');
     cursor: none;
 }

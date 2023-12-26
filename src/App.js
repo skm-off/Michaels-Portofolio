@@ -15,7 +15,6 @@ function App() {
       once: animation.once,
       disable: !animation.animate,
     });
-    // eslint-disable-next-line
   }, []);
 
   return (
