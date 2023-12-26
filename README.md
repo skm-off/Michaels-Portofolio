@@ -1,6 +1,6 @@
-# Web Developer React Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/kaustubhai/portfolio-template?color=blue)](https://github.com/kaustubhai/portfolio-template/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/kaustubhai/portfolio-template)](https://github.com/kaustubhai/portfolio-template/stargazers)
+# Michael Schenk ⚡️
 
-## A clean, beautiful and responsive react portfolio template for Developers!
+## Overview
 
 
 <p align="center">
@@ -9,16 +9,12 @@
   </kbd>
 </p>
 
+This is my website to show my life & career. It will give an overview of various projects I have done in my career as well as in my free time. 
 
-Just change `src/profile.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
-
-To Update the image go to `src/styles/images.css`  
-To change colors, go to `src/styles/style.css`
-
-But if you want to **contribute** and make this much better for other developer raise a [Issue](https://github.com/kaustubhai/portfolio-template/issues).
+To see the live version of this website [Click Here](https://github.com/kaustubhai/portfolio-template/issues).
 
 
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/kaustubhai/portfolio-template/pulls).
+If you have questions or want to contact me please feel free to do that in my about section of the website !
 
 ## Table of Contents
 - [Sections](#sections)
@@ -27,17 +23,6 @@ If you created something awesome and want to contribute then feel free to open a
 - [Change and Customize](#change-and-customize-every-section-according-to-your-need)
 - [Deployment](#deployment)
 - [For the Future](#for-the-future)
-## Sections
-✔️ Full screen Intro\
-✔️ About Summary\
-✔️ Skills\
-✔️ Projects\
-✔️ Miscellaneous activities\
-✔️ Contact Form\
-✔️ Social Profile\
-
-To view a live example, **[click here](https://kaustubhai.netlify.app/)**.
-
 
 ## Getting Started
 

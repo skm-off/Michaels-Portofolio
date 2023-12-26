@@ -117,7 +117,7 @@ const projects = [
     id: "project6",
     name: "Vitalograph",
     skills: ["MySQL, Microsoft SQL Server "],
-    url: "https://github.com/kaustubhai",
+    url: "https://vitalograph.com",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
@@ -128,7 +128,7 @@ const miscellaneous = [
   {
     // Add image in './styles/images.css' in #misc1
     id: "misc1",
-    name: "This Portfolio",
+    name: "This Website",
     url: "https://github.com/skm-off/Michaels-Portofolio",
   },
   {
