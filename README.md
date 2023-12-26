@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-<img src="https://github.com/kaustubhai/portfolio-template/blob/master/public/portfolio-example.gif?raw=true"></img>
+<img src="https://www.canva.com/design/DAF4HTzkCWI/dx3P0VtkBgUT61ApppBbNA/edit?utm_content=DAF4HTzkCWI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"></img>
   </kbd>
 </p>
 
