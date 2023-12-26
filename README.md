@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-<img src="https://www.canva.com/design/DAF4HTzkCWI/dx3P0VtkBgUT61ApppBbNA/edit?utm_content=DAF4HTzkCWI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"></img>
+<img src="https://cdn.pixabay.com/photo/2015/07/16/12/29/mockup-847643_1280.jpg"></img>
   </kbd>
 </p>
 
