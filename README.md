@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-<img src="https://cdn.pixabay.com/photo/2015/07/16/12/29/mockup-847643_1280.jpg"></img>
+<img src="https://pixabay.com/get/g13236c2f98e112181284b553322df8c743c0fe09a3a31dd8a680790fda3e0da37574453da8c1ba6bafbb435cbdf4829a_1280.jpg"></img>
   </kbd>
 </p>
 
