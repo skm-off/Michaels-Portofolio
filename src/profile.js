@@ -13,7 +13,7 @@ const header = {
 };
 const background = {
   // Options: Snow or Particle
-  type: "Snow",
+  type: "Particle",
 };
 // Write a para about yourself here
 // To update your image, go to './styles/images.css'
@@ -78,42 +78,36 @@ const skillsBar = [
 const section3Title = "Past Projects & Experience";
 const projects = [
   {
-    // Add image in './styles/images.css' in #project1
     id: "project1",
     name: "BWT Best Water Home (Google Play)",
     skills: ["React, TypeScript, JavaScript"],
     url: "https://play.google.com/store/apps/details?id=com.bwt.athomeapp&pcampaignid=web_share",
   },
   {
-    // Add image in './styles/images.css' in #project2
     id: "project2",
     name: "BWT Pearl Connect (Google Play)",
     skills: ["React, TypeScript, C++"],
     url: "https://play.google.com/store/apps/details?id=com.procopi.bwtpearlconnect&pcampaignid=web_share",
   },
   {
-    // Add image in './styles/images.css' in #project3
     id: "project3",
     name: "Eventr (IOS + Android)",
     skills: ["React, TypeScript, JavaScript"],
     url: "https://eventr.bwtsoftpauer.com",
   },
   {
-    // Add image in './styles/images.css' in #project1
     id: "project4",
     name: "BWT Best Water Home (Apple Store)",
     skills: ["React, TypeScript, JavaScript"],
     url: "https://apps.apple.com/at/app/bwt-best-water-home/id1317692659",
   },
   {
-    // Add image in './styles/images.css' in #project2
     id: "project5",
     name: "BWT Pearl Connect (Apple Store)",
     skills: ["React, TypeScript, C++"],
     url: "https://apps.apple.com/at/app/bwt-pearl-connect/id1597937813",
   },
   {
-    // Add image in './styles/images.css' in #project3
     id: "project6",
     name: "Vitalograph",
     skills: ["MySQL, Microsoft SQL Server "],
@@ -126,27 +120,24 @@ const projects = [
 const section4Title = "GitHub - Personal Projects";
 const miscellaneous = [
   {
-    // Add image in './styles/images.css' in #misc1
     id: "misc1",
     name: "This Website",
     url: "https://github.com/skm-off/Michaels-Portofolio",
   },
   {
-    // Add image in './styles/images.css' in #misc2
     id: "misc2",
     name: "UE Project (In Progress)",
     url: "https://github.com/skm-off",
   },
   {
-    // Add image in './styles/images.css' in #misc3
     id: "misc3",
     name: "/ Future Project /",
-    url: "https://github.com/skm-off",
+    url: "https://cdn.pixabay.com/photo/2017/10/26/17/51/under-construction-2891888_1280.jpg",
   },
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
 // To get your own jotform link, go to https://formspree.io/
-// If you hacve the link already, paste it in the contactUrl below
+// If you have the link already, paste it in the contactUrl below
 const section5Title = "Get in Touch";
 const contact = {
   subtitles1:
@@ -161,8 +152,8 @@ const contact = {
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
   github: "https://github.com",
-  linkedin: "https://linkedin.com",
-  resume: "https://novoresume.com/",
+  linkedin: "https://www.linkedin.com/in/michael-schenk-a8209858/",
+  resume: "https://mega.nz/file/ZOAjAK6R#1jqZrZwijusYFWLaExo_XsGwoEm1fC6GYgoa73K977s",
 };
 // Dont change anything here
 export {
